@@ -1,0 +1,82 @@
+[
+  {
+    "nom": "Pomme",
+    "lipides_g": 0.2,
+    "glucides_g": 11.4,
+    "proteines_g": 0.3,
+    "note": "A",
+    "image": "https://media.istockphoto.com/id/184276818/fr/photo/pomme-rouge.jpg?s=612x612&w=0&k=20&c=yk9viCWt8_VHAvSvzPuqZI-A79xkestBMyCf1AEyhrc="
+  },
+  {
+    "nom": "Banane",
+    "lipides_g": 0.3,
+    "glucides_g": 23,
+    "proteines_g": 1.1,
+    "note": "B",
+    "image": "https://img.freepik.com/photos-gratuite/banane-unique-isole-fond-blanc_839833-17794.jpg?semt=ais_hybrid&w=740"
+  },
+  {
+    "nom": "Riz blanc cru",
+    "lipides_g": 0.6,
+    "glucides_g": 80,
+    "proteines_g": 7,
+    "note": "C",
+    "image" : "https://media.istockphoto.com/id/860931464/fr/photo/dans-un-bol-de-riz-sur-fond-blanc.jpg?s=612x612&w=0&k=20&c=HtS8_YVTKXb5kYyIvCHt8uzPSNXIMZQcjKFEKnJk5Bw="
+  },
+  {
+    "nom": "Lait entier",
+    "lipides_g": 3.5,
+    "glucides_g": 5,
+    "proteines_g": 3.3,
+    "note": "B",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7mJzhqNihE9OO3w3qo3ogUoPpvT43HvdebQ&s"
+  },
+  {
+    "nom": "Avoine",
+    "lipides_g": 7,
+    "glucides_g": 60,
+    "proteines_g": 13,
+    "note": "B",
+    "image": "https://img.freepik.com/photos-gratuite/avoine_1368-5509.jpg?semt=ais_hybrid&w=740"
+  },
+  {
+    "nom": "Beurre",
+    "lipides_g": 82,
+    "glucides_g": 0.1,
+    "proteines_g": 0.9,
+    "note": "F",
+    "image": "https://media.istockphoto.com/id/177834117/fr/photo/beurre-isol%C3%A9-sur-blanc.jpg?s=612x612&w=0&k=20&c=CC_zcV2ZONdekMp2NhbEqSUTs-Sd4gBUoMalTh6aOg0="
+  },
+  {
+    "nom": "Sucre blanc",
+    "lipides_g": 0,
+    "glucides_g": 100,
+    "proteines_g": 0,
+    "note": "F",
+    "image": "https://media.istockphoto.com/id/1420446362/fr/photo/sucre-granul%C3%A9-blanc-et-morceaux-de-sucre-raffin%C3%A9-en-gros-plan-dans-la-cuisine.jpg?s=612x612&w=0&k=20&c=g5j9XZf-z6CJ6YpIdaM4-y4s5Yw8DjBGCQkkccMyrp8="
+  },
+  {
+    "nom": "Œuf",
+    "lipides_g": 10.6,
+    "glucides_g": 1.1,
+    "proteines_g": 12.5,
+    "note": "B",
+    "image": "https://img.freepik.com/psd-gratuit/arrangement-oeufs-crus_23-2151864138.jpg?semt=ais_hybrid&w=740"
+  },
+  {
+    "nom": "Farine de blé",
+    "lipides_g": 1.5,
+    "glucides_g": 76,
+    "proteines_g": 10,
+    "note": "C",
+    "image": "https://media.carrefour.fr/medias/65969ac92b17302d817e143216dcc342/p_1500x1500/03068110360077-c1n1-s11.jpg"
+  },
+  {
+    "nom": "Huile de tournesol",
+    "lipides_g": 100,
+    "glucides_g": 0,
+    "proteines_g": 0,
+    "note": "F",
+    "image": "https://m.media-amazon.com/images/I/61hBHpOTGUL.jpg"
+  }
+]

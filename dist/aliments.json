@@ -1,0 +1,72 @@
+[
+    {
+        "nom": "Pomme",
+        "lipides_g": 0.2,
+        "glucides_g": 11.4,
+        "proteines_g": 0.3,
+        "note": "A"
+    },
+    {
+        "nom": "Banane",
+        "lipides_g": 0.3,
+        "glucides_g": 23,
+        "proteines_g": 1.1,
+        "note": "B"
+    },
+    {
+        "nom": "Riz blanc cru",
+        "lipides_g": 0.6,
+        "glucides_g": 80,
+        "proteines_g": 7,
+        "note": "C"
+    },
+    {
+        "nom": "Lait entier",
+        "lipides_g": 3.5,
+        "glucides_g": 5,
+        "proteines_g": 3.3,
+        "note": "B"
+    },
+    {
+        "nom": "Avoine",
+        "lipides_g": 7,
+        "glucides_g": 60,
+        "proteines_g": 13,
+        "note": "B"
+    },
+    {
+        "nom": "Beurre",
+        "lipides_g": 82,
+        "glucides_g": 0.1,
+        "proteines_g": 0.9,
+        "note": "F"
+    },
+    {
+        "nom": "Sucre blanc",
+        "lipides_g": 0,
+        "glucides_g": 100,
+        "proteines_g": 0,
+        "note": "F"
+    },
+    {
+        "nom": "Œuf",
+        "lipides_g": 10.6,
+        "glucides_g": 1.1,
+        "proteines_g": 12.5,
+        "note": "B"
+    },
+    {
+        "nom": "Farine de blé",
+        "lipides_g": 1.5,
+        "glucides_g": 76,
+        "proteines_g": 10,
+        "note": "C"
+    },
+    {
+        "nom": "Huile de tournesol",
+        "lipides_g": 100,
+        "glucides_g": 0,
+        "proteines_g": 0,
+        "note": "F"
+    }
+]

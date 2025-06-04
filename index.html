@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script type="module" src="dist/main.js" defer></script>
+  <link rel="stylesheet" href="style/style.css">
+  <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+  <title>Aliments</title>
+  <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+
+<body class="body">
+  <h2>Afficher les aliments de <span>
+      <select name="class" id="class">
+        <option value="Bonne">Bonne</option>
+        <option value="Moyenne">Moyenne</option>
+        <option value="Mauvaise">Mauvaise</option>
+        <option value="Toute" selected>Toute</option>
+      </select>
+    </span> valeur nutritionelle</h2>
+  <table class="table table-bordered table-primary table-striped w-75 text-center">
+    <thead class="table-light">
+      <tr>
+        <th>Nom</th>
+        <th>Lipide</th>
+        <th>Glucide</th>
+        <th>Proteine</th>
+        <th>Classe</th>
+        <th>Image</th>
+      </tr>
+    </thead>
+  </table>
+</body>
+
+</html>
